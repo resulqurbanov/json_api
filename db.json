@@ -1,0 +1,56 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    
+    "profile": { "name": "typicode" },
+
+    "sinif": [
+        {
+            "id":1,
+            "name":"Resul",
+            "surname":"Qurbanov",
+            "hobby":"play games"
+        },
+        {
+            "id":2,
+            "name":"Resul",
+            "surname":"Qurbanov",
+            "hobby":"play gadhdfghmes"
+        },
+        {
+            "id":3,
+            "name":"Resul",
+            "surname":"Qurbanov",
+            "hobby":"play fgh"
+        },
+        {
+            "id":4,
+            "name":"Resul",
+            "surname":"Qurbanov",
+            "hobby":"play dsafag"
+        },
+        {
+            "id":5,
+            "name":"Resul",
+            "surname":"Qurbanov",
+            "hobby":"play dsaf"
+        },
+        {
+            "id":6,
+            "name":"Resul",
+            "surname":"Qurbanov",
+            "hobby":"play gsadfdsaames"
+        },
+        {
+            "id":7,
+            "name":"Resul",
+            "surname":"Qurbanov",
+            "hobby":"play fasdf"
+        }
+    ]
+    
+  }
